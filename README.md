@@ -24,4 +24,4 @@ If you want to watch how they go use flag --headed, like this:
    We use playwright only for testing functionality like for smoke test! We don't check all icons, texts,
    buttons etc. Only checking how works our main functionality.
 
-# Now these tests cases don't update and I am sure they wouldn't pass, also I use TS and JS in this example because I can xD.
+# Now these tests cases don't update and I am sure they wouldn't pass, also I use TS and JS in this example because I can xDD.
